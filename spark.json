@@ -1,7 +1,7 @@
 {
-  "name": "MQTT V3.3.1",
+  "name": "TTCP V3.3.1",
   "author": "hirotakaster, zhongjin",
   "license": "MIT",
   "version": "0.1.0",
-  "description": "mqtt protocol support version 3.3.1 with examples"
+  "description": "TTCP protocol support version 3.3.1 with examples"
 }
